@@ -23,7 +23,6 @@ body {
 header {
   height: 32%;
   padding: 10px;
-  border-bottom: 3px solid black;
 }
 
 main {
@@ -44,6 +43,7 @@ h1 {
 h2 {
   font-weight: 400;
   font-style: italic;
+  border-bottom: 3px solid black;
 }
 
 h3 {
